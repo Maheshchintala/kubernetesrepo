@@ -1,0 +1,2 @@
+# kubernetesrepo
+myrepo
